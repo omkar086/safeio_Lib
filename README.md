@@ -55,6 +55,6 @@ This project is licensed under the **MIT License** – do anything you want, but
 
 ## 🌐 Project Links
 
-- 🔗 GitHub: [https://github.com/omakr086/safeio_Lib](https://github.com/omkar086/safeio_Lib)
-- 📦 PyPI: [https://pypi.org/project/safeio](https://pypi.org/project/safeio)
+- 🔗 GitHub: [https://github.com/omakr086/safeio_Lib](https://github.com/omkar086/safeiofile_Lib)
+- 📦 PyPI: [https://pypi.org/project/safeio](https://pypi.org/project/safeiofile)
 
