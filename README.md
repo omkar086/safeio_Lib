@@ -1,6 +1,6 @@
-# safeio 📂 — Safe & Simple File Operations in Python
+# safeiofile 📂 — Safe & Simple File Operations in Python
 
-`safeio` is a minimal, cross-platform Python library designed to simplify and secure common file operations like reading, writing, appending, backing up, and log rotation.
+`safeiofile` is a minimal, cross-platform Python library designed to simplify and secure common file operations like reading, writing, appending, backing up, and log rotation.
 
 ---
 
@@ -17,9 +17,9 @@ While Python provides powerful tools, it misses a lightweight abstraction for **
 
 ---
 
-## ✅ The Solution: `safeio`
+## ✅ The Solution: `safeiofile`
 
-`safeio` wraps Python’s file handling into a clean, chainable interface with built-in safety features:
+`safeiofile` wraps Python’s file handling into a clean, chainable interface with built-in safety features:
 
 - ✔️ Simple `.read()`, `.write()`, `.append()` methods
 - 🔁 Auto-rotates large files to avoid crashes or memory issues
@@ -31,7 +31,7 @@ While Python provides powerful tools, it misses a lightweight abstraction for **
 ## 📦 Installation
 
 ```bash
-pip install safeio
+pip install safeiofile
 ```
 
 ---
